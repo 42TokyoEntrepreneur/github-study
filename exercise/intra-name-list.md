@@ -3,3 +3,5 @@
 - intra-name
 yotsurud
 ssoeno
+- rhonda
+- kokurita

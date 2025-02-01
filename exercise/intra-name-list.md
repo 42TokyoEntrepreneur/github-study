@@ -3,5 +3,6 @@
 - intra-name
 yotsurud
 ssoeno
+- hichikaw
 - rhonda
 - kokurita

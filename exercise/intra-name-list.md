@@ -2,10 +2,11 @@
 
 
 - intra-name
+- kadachi
 - mawako
 - hakobori
 - yotsuru
-htakeshi 
+- htakeshi 
 - kenakamu
 - hichikaw
 - rhonda

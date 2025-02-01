@@ -2,6 +2,7 @@
 
 
 - intra-name
+htakeshi 
 - kenakamu
 - hichikaw
 - rhonda

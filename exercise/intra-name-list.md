@@ -2,3 +2,6 @@
 
 - intra-name
 - kadachi
+- hichikaw
+- rhonda
+- kokurita

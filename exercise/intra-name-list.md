@@ -2,6 +2,9 @@
 
 
 - intra-name
+- mawako
+- hakobori
+- yotsuru
 htakeshi 
 - kenakamu
 - hichikaw

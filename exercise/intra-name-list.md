@@ -2,6 +2,7 @@
 
 
 - intra-name
+- ttsubo
 - kadachi
 - mawako
 - hakobori

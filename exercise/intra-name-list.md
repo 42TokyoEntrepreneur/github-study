@@ -1,9 +1,9 @@
 # イントラ名一覧
 
 - intra-name
-mawako
-mawako!!!
-hakobori
-yotsuru
+- mawako
+- hakobori
+- yotsuru
+- hichikaw
 - rhonda
 - kokurita
